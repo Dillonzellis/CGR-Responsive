@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Enrollment Form</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet" type="text/css">
+    <style>
+        h1 {
+            font-family: Lato, sans-serif;
+            font-weight: 300;
+            text-align: center;
+        }
+		p{
+			font-family: Lato, sans-serif;
+			font-size:24px;
+		}
+    </style>
+
+    <!-- Vanilla's resources start here -->
+    <link rel="stylesheet" href="css/vanilla-form.css">
+    <!-- Vanilla's resources end here -->
+    
+   <link rel="stylesheet" href="Lively-Validator/lively-validator.css" />
+   <script type="text/javascript" src="Lively-Validator/jquery-1.8.0.min.js"></script>
+   <script type="text/javascript" src="Lively-Validator/livelyValidator.js"></script>
+   <script type="text/javascript" >
+   $(document).ready( function(){
+      $('#enrollment').livelyValidator({debug:true});
+      $(':input').css( 'autocomplete', 'off' );   
+   });
+   </script>
+
+</head>
+<body>
+<div class="content">
+    <h1>Remote Deposit Capture Enrollment</h1>
+    <div class="form-container">
+        <!-- Vanilla Form markup starts here -->
+        <form action="insert1.php" method="post" class="vanilla-form" id="enrollment">
+            <!-- Left column -->
+            <div class="column-100">
+                <p align="center"><input type="text" name="name" placeholder="Your name" data-validate="required"></p>
+            </div>
+            <div class="column-100">
+                <p align="center"><input type="text" name="email" placeholder="Your e-mail" data-validate="required"></p>
+            </div>
+            <div class="column-100">
+            <p align="center"><input type="text" name="tel" placeholder="Phone" data-validate="required"></p>
+            </div>
+            <div class="column-100">
+			<p align="center"><input type="text" name="account" placeholder="Account Number" data-validate="required"></p>
+            </div>
+
+            <div class="column-100 center">
+                <p align="center"><input type="submit" value="Send" data-error="Fix errors" data-processing="Sending..." data-success="Thank you!"></p>
+            </div>
+            <footer class="notification-box"></footer>
+        </form>
+        <p align="center">Please allow up to one business day for receipt of an email letting you know your approval status.</p>
+        <!-- Vanilla Form markup ends here -->
+    </div>
+</div>
+</body>
+</html>

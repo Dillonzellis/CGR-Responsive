@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>PayPal REST API</title>
+
+<link rel="stylesheet" href="PayPal%20REST%20API_files/style.css">
+<link rel="stylesheet" href="PayPal%20REST%20API_files/normalize.css">
+<link rel="stylesheet" href="PayPal%20REST%20API_files/skeleton.css">
+<link rel="stylesheet" type="text/css" href="PayPal%20REST%20API_files/fullwidth.css" media="screen">
+<link rel="stylesheet" type="text/css" href="PayPal%20REST%20API_files/settings.html" media="screen">
+<link rel="stylesheet" type="text/css" href="PayPal%20REST%20API_files/remodal.html" media="screen">
+<link rel="stylesheet" type="text/css" href="PayPal%20REST%20API_files/remodal-default-theme.html" media="screen">
+<link rel="stylesheet" href="PayPal%20REST%20API_files/font-awesome.css">
+
+<!--JS SCRIPTS-->
+<script src="PayPal%20REST%20API_files/jquery.js"></script> 
+<script src="PayPal%20REST%20API_files/angular.js"></script>
+<script src="PayPal%20REST%20API_files/angular-route.js"></script>
+<script src="PayPal%20REST%20API_files/jquery-ui.js"></script>
+
+<script>
+
+$(document).ready(function(e) {
+	$('#billingInformation').prop('checked') = 'checked';
+	
+	$('#billingInformation').hide();
+	$('#billingInfoCheckBox').click(function(e) {
+		var checked =$(this).is(':checked');
+		if(checked) {
+			$('#billingInformation').slideUp(400);
+		} else {$('#billingInformation').slideDown(400);}
+	});
+	
+    
+		$('#ccPayment').click(function() {
+			if($('select option[value=paypal]').is(':selected')) {
+			$('.hideForPayPal').css('visibility','hidden');
+			$('.paypalEmail').css('display','block');
+		} else {
+			$('.hideForPayPal').css('visibility','visible');
+			$('.paypalEmail').css('display','none');
+
+		}
+		});
+				
+});
+
+</script>
+</head>
+
+<body>
+
+<div class="container row u-full-width row-padding container-padding">
+<div class="twelve columns">
+<form method="post" action="#" class="paypal-form p50-t">
+<p class="df-xltitle p20-b">Place Your Order Here</p>
+
+<fieldset>
+<input name="fname" placeholder="Enter Your First Name" type="text">
+<input name="lname" placeholder="Enter Your Last Name" type="text">
+<input name="email" placeholder="Enter a Valid Email Address" type="email">
+</fieldset>
+
+<fieldset>
+<input name="tel" placeholder="Enter a Valid Phone Number" type="tel">
+</fieldset>
+
+<p class="df-stitle fw600">What Would You Like To Purchase</p>
+<fieldset class="fruit-radio">
+<input name="fruit" value="Apple" type="radio"><label>Apple</label>
+<input name="fruit" value="Orange" type="radio"><label>Orange</label>
+<input name="fruit" value="Pear" type="radio"><label>Pear</label>
+<input name="fruit" value="Kiwi" type="radio"><label>Kiwi</label>
+</fieldset>
+
+
+<p class="df-stitle fw600">How Many Would You Like To Purchase</p>
+
+<fieldset>
+<select name="quantity">
+<option selected="selected" value="1">1 case</option>
+<option value="5">5 cases</option>
+<option value="10">10 cases</option>
+<option value="20">20 cases</option>
+<option value="50">50 cases</option>
+</select>
+
+</fieldset>
+
+<p class="paypal-section-title">Shipping Information</p>
+
+<fieldset>
+<input name="streetNumberShipping" placeholder="Street Number" type="text">
+<input name="streetNameShipping" placeholder="Address" type="text">
+<input name="cityShipping" placeholder="City" type="text">
+</fieldset>
+
+<fieldset>
+<input name="stateShipping" placeholder="State" type="text">
+<input name="zipShipping" placeholder="Zip" type="text">
+<input name="unitNumberShipping" placeholder="Apt/Unit/Bldg #" type="text">
+</fieldset>
+
+
+
+<fieldset>Check Here if Billing and Shipping Locations Are The Same<input name="sameInfo" id="billingInfoCheckBox" checked="checked" type="checkbox"></fieldset>
+
+<div id="billingInformation">
+<p class="paypal-section-title">Billing Information</p>
+
+<fieldset>
+<input name="streetNumberBilling" placeholder="Street Number" type="text">
+<input name="streetNameBilling" placeholder="Address" type="text">
+<input name="cityBilling" placeholder="City" type="text">
+</fieldset>
+
+<fieldset>
+<input name="stateBilling" placeholder="State" type="text">
+<input name="zipBilling" placeholder="Zip" type="text">
+<input name="unitNumberBilling" placeholder="Apt/Unit/Bldg #" type="text">
+</fieldset>
+</div>
+
+<p class="paypal-section-title">Payment Information</p>
+
+<script>
+
+
+
+</script>
+
+<fieldset>
+<select id="ccPayment">
+<option selected="selected" value="visa">VISA</option>
+<option value="mastercard">MasterCard</option>
+<option value="diners">Diner's Club</option>
+<option value="amex">American Express</option>
+<option value="paypal">PayPal</option>
+</select>
+<input class="hideForPayPal" name="cardNumber" placeholder="Card Number" type="text">
+<input class="hideForPayPal" name="expirationDate" placeholder="Expiration Date" type="text">
+</fieldset>
+
+<fieldset>
+<input class="hideForPayPal" name="secCode" placeholder="3-Digit Security Code" type="text">
+</fieldset>
+
+
+<fieldset class="paypalEmail">
+<p class="fw600">PayPal Users Only</p>
+
+<input name="paypalEmail" placeholder="PayPal Email Address" type="text">
+</fieldset>
+
+
+<p class="">***Please Enter Information as it appears on the card only</p>
+<fieldset>
+<input name="fnameCard" placeholder="First Name on Card" type="text">
+<input name="lnameCard" placeholder="Last Name on Card" type="text">
+</fieldset>
+
+
+
+<fieldset>
+<input value="Process Payment" type="submit">
+<input value="Reset Form" type="reset">
+</fieldset>
+</form>
+</div></div>
+
+
+</body></html>

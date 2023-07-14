@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /data/22/2/3/65/2003717/user/2191524/htdocs/forms_app/output/.access.pwd
+AuthPam_Enabled off
+
+require valid-user
+Options -Indexes

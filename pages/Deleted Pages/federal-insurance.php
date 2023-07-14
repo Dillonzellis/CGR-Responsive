@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>CGR Federal Credit Union</title>
+
+<!--META DATA-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="Like all credit unions, CGR Credit Union is a not-for-profit financial cooperative. When you join the credit union, you become a shareholder – or an owner – of a very unique financial institution. Earnings above the required reserves are returned to you, in the form of lower interest rates on loans and competitive dividends on savings.">
+<meta name="keywords" content=""/>
+
+<?php include ('../includes/head.php'); ?>
+
+</head>
+
+<body>
+<?php include_once("../includes/analyticstracking.php") ?>
+<?php include ('../includes/header.php');?>
+
+<main id="main" class="content page">
+
+<div class="container">
+
+<div class="nine columns">
+ 	
+ 
+<p class="page-title">Federal Insurance</p>
+
+The National Credit Union Administration (NCUA) provides insurance coverage of up to $250,000 for your Credit Union account(s). To learn more about the type of accounts and the total amounts that the NCUA may insure visit this link directly to NCUA: http://www.ncua.gov/DataApps/Pages/SI-Tools.aspx. 
+</div><!--end eight columns-->
+
+<div class="three columns sidebar">
+<?php include ('../includes/accounts-sidebar.php'); ?>
+</div><!--end four columns sidebar-->
+
+</main>
+
+
+
+
+
+
+<?php include ('../includes/footer.php');?>
+
+<!--JAVASCRIPT INCLUDES-->
+
+
+</body>
+
+</html>
