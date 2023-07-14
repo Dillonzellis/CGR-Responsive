@@ -54,7 +54,7 @@
                                 <a href="#" data-remodal-target="balance"><img src="images/cta/checking-cta.png" alt="Checking Accounts Icon" width="55" height="55" class="cta-image" /></a>
                             </td>
                             <td>
-                                <p class="cta-title"><a href="https://www.cgrcu.org/pages/online-banking-security.php" target="_blank">Online Security Update</a></p>
+                                <p class="cta-title"><a href="https://www.cgrcu.org/pages/online-banking-security.php" aria-label="online security update" target="_blank">Online Security Update</a></p>
                                 <p>
                                     Ensure you have access to your accounts<br />
                                     <a href="https://www.cgrcu.org/pages/online-banking-security.php" target="_blank">[ Learn More ]</a>
