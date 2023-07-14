@@ -57,7 +57,7 @@
                                 <p class="cta-title"><a href="https://www.cgrcu.org/pages/online-banking-security.php" aria-label="online security update" target="_blank">Online Security Update</a></p>
                                 <p>
                                     Ensure you have access to your accounts<br />
-                                    <a href="https://www.cgrcu.org/pages/online-banking-security.php" target="_blank">[ Learn More ]</a>
+                                    <a href="https://www.cgrcu.org/pages/online-banking-security.php" target="_blank" aria-label="learn more about online banking security">[ Learn More ]</a>
                                 </p>
                             </td>
                         </tr>
