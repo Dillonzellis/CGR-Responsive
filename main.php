@@ -19,7 +19,15 @@
 
     <?php include_once "includes/analyticstracking.php"; ?>
 
-    <?php include "includes/notification-bar.php"; ?>
+    <?php
+    $currentDate = new DateTime(); 
+    $endDate = new DateTime('2023-09-04 23:59:00'); 
+
+    if ($currentDate < $endDate) {
+    include "includes/notification-bar.php";
+    }
+    ?>
+
 
     <?php include "includes/header.php"; ?>
 
