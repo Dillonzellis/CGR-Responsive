@@ -23,7 +23,17 @@
         <div id="slider" class="fullwidthbanner-container">
             <div class="fullwidthbanner">
                 <ul>
-                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">
+                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/WeAreMoving.jpg">
+                        <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
+                        <img src="/images/slider/WeAreMoving.jpg" data-transition="notransition" alt="Scam Alert">
+                        <!-- THE CAPTIONS IN THIS SLDIE -->
+                        <div class="caption large_text sfb" data-x="100" data-y="380" data-speed="500" data-start="1000" data-easing="easeOutExpo" style=" display:grid; gap: 1rem; text-align:center">
+
+                            <a href="https://cgrcu.org/promo/wearemoving.php"><img src="https://www.cgrcu.org/images/slider/learn-more.jpg" alt="Learn More Button"></a>
+                        </div>
+                    </li>
+					
+					<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/home-loan.png">
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
                         <img src="/images/slider/Web Banner Scam Alert.png" data-transition="notransition" alt="Scam Alert">
                         <!-- THE CAPTIONS IN THIS SLDIE -->

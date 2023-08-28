@@ -16,7 +16,7 @@
 
 <body>
 
-    <?php include "./includes/notification-bar.php"; ?>
+
 
     <?php include_once "includes/analyticstracking.php"; ?>
 

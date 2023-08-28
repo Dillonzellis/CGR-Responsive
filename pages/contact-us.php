@@ -85,7 +85,7 @@ Milledgeville, GA 31061</a><br/>
 
 
 <tr>
-<td><p class="contact-page-subtitle">Warner Robins Branch</p>
+<td><p class="contact-page-subtitle">Warner Robins Branch<br>(Closing Sept. 8, 2023)</p>
   <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/104+N+Houston+Rd,+Warner+Robins,+GA+31093/@32.620351,-83.6433957,17z/data=!3m1!4b1!4m5!3m4!1s0x88f3e10c17260cfb:0xd8593390cefc7f0e!8m2!3d32.620351!4d-83.641207">104 N Houston Road<br/>
     Warner Robins, GA 31093</a><br/>
     <strong>Phone:</strong> 478.745.0494<br/>
@@ -102,7 +102,19 @@ Milledgeville, GA 31061</a><br/>
 </td>
 
 
-	<td>&nbsp;
+	<td><p class="contact-page-subtitle">Lake Joy Branch<br>(Opening Sept. 12, 2023)</p>
+  <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/1110+SR+96,+Kathleen,+GA+31047/@32.5485448,-83.6945618,17z/data=!3m1!4b1!4m6!3m5!1s0x88f3ddee21ecdbbd:0x800b97ad8a34b0a2!8m2!3d32.5485403!4d-83.6919869!16s%2Fg%2F11b8v4bc9k?entry=ttu">1110 Highway 96<br>Kathleen, GA 31047</a><br/>
+    <strong>Phone:</strong> 478.745.0494<br/>
+    <strong>Toll-Free:</strong> 800.633.2275<br/>
+    <strong>Fax:</strong> 478.922.7450</p>
+  <p><strong>Lobby & Drive-Thru Hours:</strong><br/>
+    <strong>Monday - Friday</strong> <br/>
+    8:30 a.m. to 5:00 p.m. <br/>
+    <strong>Saturday (Drive-Thru Only)</strong> <br/>
+    8:30 a.m. to 12:00 Noon </p>
+  <p class="contact-page-subtitle"><!--<strong>Monday, Wednesday</strong> <br/>
+8:00 a.m. to 4:00 p.m.<br>
+<strong>Tuesday, Thursday, Friday CLOSED</strong>--></p>
   
 </td>
 <td>

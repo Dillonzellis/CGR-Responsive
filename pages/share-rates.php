@@ -25,7 +25,7 @@
             <div class="nine columns">
                 <h1 class="page-title">Share Rates</h1>
 
-                <p>Annual Percentage Yield is accurate as of February 15, 2023. Rates and other terms may change at any time without prior notice. A penalty is imposed for early withdrawal. Fees could reduce earnings on the account.</p>
+                <p>Annual Percentage Yield is accurate as of August 1, 2023. Rates and other terms may change at any time without prior notice. A penalty is imposed for early withdrawal. Fees could reduce earnings on the account.</p>
 
                 <table class="rates-table">
 
@@ -157,11 +157,11 @@
                             </td>
                             <td>
                                 0.35%<br />
-                                2.20%
+                                3.00%
                             </td>
                             <td>
                                 0.35%<br />
-                                2.50%
+                                3.00%
                             </td>
                             <td>
                                 $5<br />
@@ -217,29 +217,29 @@
 
                         <tr>
                             <td><strong>6 Month</strong></td>
-                            <td>2.00%</td>
-                            <td>2.00%</td>
+                            <td>2.50%</td>
+                            <td>2.50%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>12 Month</strong></td>
-                            <td>3.00%</td>
-                            <td>3.00%</td>
+                            <td>4.00%</td>
+                            <td>4.00%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>NEW 18 Month</strong></td>
-                            <td>3.25%</td>
-                            <td>3.25%</td>
+                            <td>4.00%</td>
+                            <td>4.00%</td>
                             <td>$2,500</td>
                         </tr>
 
                         <tr>
                             <td><strong>24 Month</strong></td>
-                            <td>3.25%</td>
-                            <td>3.25%</td>
+                            <td>4.00%</td>
+                            <td>4.00%</td>
                             <td>$2,500</td>
                         </tr>
 

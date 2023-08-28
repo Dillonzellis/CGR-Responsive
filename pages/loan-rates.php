@@ -25,7 +25,7 @@
             <div class="nine columns">
                 <h1 class="page-title">Loan Rates</h1>
 
-                <p class="aligncenter df-mtitle fw700">Current Loan Rates as of February 10, 2023.</p>
+                <p class="aligncenter df-mtitle fw700">Current Loan Rates as of August 1, 2023.</p>
 
                 <table id="loan-rates-table" role="presentation">
 
@@ -46,32 +46,32 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>4.90% to 16.65%*</td>
+                        <td>5.25% to 17.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 48 months</td>
-                        <td>5.05% to 17.15%*</td>
+                        <td>5.40% to 17.50%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 60 months</td>
-                        <td>5.05% to 17.65%*</td>
+                        <td>5.40% to 17.90%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 66 months</td>
-                        <td>5.30% to 17.80%*</td>
+                        <td>5.50% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 72 months</td>
-                        <td>5.50% to 13.65%*</td>
+                        <td>5.75% to 14.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 84 months</td>
-                        <td>6.25% to 15.95%*</td>
+                        <td>6.50% to 17.95%*</td>
                     </tr>
 
                     <tr class="head">
@@ -86,32 +86,32 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>5.25% to 17.50%*</td>
-                    </tr>
-
-                    <tr>
-                        <td>up to 48 months</td>
-                        <td>5.25% to 17.70%*</td>
-                    </tr>
-
-                    <tr>
-                        <td>up to 60 months</td>
                         <td>5.50% to 17.85%*</td>
                     </tr>
 
                     <tr>
+                        <td>up to 48 months</td>
+                        <td>5.50% to 17.90%*</td>
+                    </tr>
+
+                    <tr>
+                        <td>up to 60 months</td>
+                        <td>5.75% to 18.00%*</td>
+                    </tr>
+
+                    <tr>
                         <td>up to 66 months</td>
-                        <td>5.75% to 17.90%*</td>
+                        <td>6.00% to 15.60%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 72 months</td>
-                        <td>6.00% to 15.50%*</td>
+                        <td>6.25% to 15.85%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 84 months</td>
-                        <td>6.80% to 9.55%*</td>
+                        <td>6.80% to 10.30%*</td>
                     </tr>
 
 
@@ -127,22 +127,22 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>6.50% to 17.65%*</td>
+                        <td>6.75% to 17.90%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 48 months</td>
-                        <td>6.80% to 17.85%*</td>
+                        <td>7.05% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 60 months</td>
-                        <td>7.00% to 17.90%*</td>
+                        <td>7.25% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 66 months</td>
-                        <td>7.50% to 15.90%*</td>
+                        <td>7.75% to 16.25%*</td>
                     </tr>
 
                     <tr class="head">
@@ -157,17 +157,17 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>7.75% to 18.00%*</td>
+                        <td>8.00% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 48 months</td>
-                        <td>7.95% to 18.00%*</td>
+                        <td>8.20% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 60 months</td>
-                        <td>8.35% to 18.00%*</td>
+                        <td>8.60% to 18.00%*</td>
                     </tr>
 
                     <tr class="head">
@@ -187,32 +187,32 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>7.65% to 17.50%*</td>
+                        <td>7.90% to 17.50%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 48 months</td>
-                        <td>7.75% to 18.00%*</td>
-                    </tr>
-
-                    <tr>
-                        <td>up to 60 months</td>
                         <td>8.00% to 18.00%*</td>
                     </tr>
 
                     <tr>
+                        <td>up to 60 months</td>
+                        <td>8.25% to 18.00%*</td>
+                    </tr>
+
+                    <tr>
                         <td>up to 66 months</td>
-                        <td>8.50% to 16.00%*</td>
+                        <td>7.75% to 16.25%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 72 months</td>
-                        <td>9.00% to 12.75%*</td>
+                        <td>9.25% to 13.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 84 months</td>
-                        <td>9.50% to 13.65%*</td>
+                        <td>9.75% to 13.90%*</td>
                     </tr>
 
                     <tr class="head">
@@ -227,32 +227,32 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>8.75% to 18.00%*</td>
-                    </tr>
-
-                    <tr>
-                        <td>up to 48 months</td>
                         <td>9.00% to 18.00%*</td>
                     </tr>
 
                     <tr>
+                        <td>up to 48 months</td>
+                        <td>9.25% to 18.00%*</td>
+                    </tr>
+
+                    <tr>
                         <td>up to 60 months</td>
-                        <td>9.60% to 18.00%*</td>
+                        <td>9.85% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 66 months</td>
-                        <td>9.85% to 16.85%*</td>
+                        <td>10.10% to 17.10%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 72 months</td>
-                        <td>10.15% to 15.45%*</td>
+                        <td>10.40% to 15.70%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 84 months</td>
-                        <td>11.65% to 16.85%*</td>
+                        <td>11.90% to 17.10%*</td>
                     </tr>
 
                     <tr class="head">
@@ -267,12 +267,12 @@
 
                     <tr>
                         <td>up to 36 months</td>
-                        <td>11.50% to 18.00%*</td>
+                        <td>11.75% to 18.00%*</td>
                     </tr>
 
                     <tr>
                         <td>up to 48 months</td>
-                        <td>11.75% to 18.00%*</td>
+                        <td>12.00% to 18.00%*</td>
                     </tr>
 
                     <tr class="head">
@@ -332,12 +332,12 @@
 
                     <tr>
                         <td>90% or Less of Appraised Value</td>
-                        <td>As low as 8.25%***</td>
+                        <td>As low as 8.75%***</td>
                     </tr>
 
                     <tr>
                         <td>More than 90% of Appraised Value</td>
-                        <td>As low as 8.25%***</td>
+                        <td>As low as 9.50%***</td>
                     </tr>
 
                     <tr class="head">
