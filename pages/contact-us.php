@@ -119,12 +119,6 @@
               <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/104+N+Houston+Rd,+Warner+Robins,+GA+31093/@32.620351,-83.6433957,17z/data=!3m1!4b1!4m5!3m4!1s0x88f3e10c17260cfb:0xd8593390cefc7f0e!8m2!3d32.620351!4d-83.641207">104 N Houston Road<br />
                   Warner Robins, GA 31093</a><br />
               </p>
-              <p><strong>Lobby & Drive-Thru Hours:</strong><br />
-                <strong>Monday - Friday</strong> <br />
-                8:30 a.m. to 5:00 p.m. <br />
-                <strong>Saturday</strong> <br />
-                8:30 a.m. to 12:00 Noon
-              </p>
               <p class="contact-page-subtitle"><!--<strong>Monday, Wednesday</strong> <br/>
 8:00 a.m. to 4:00 p.m.<br>
 <strong>Tuesday, Thursday, Friday CLOSED</strong>--></p>
