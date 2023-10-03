@@ -79,8 +79,8 @@
             </td>
 
             <td>
-              <p class="contact-page-subtitle">Baldwin Branch</p>
-              <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/571+Hammock+Rd+NW+%23100,+Milledgeville,+GA+31061/@33.0992857,-83.2532813,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6b87550ff2029:0x12464fe437b76372!8m2!3d33.0992857!4d-83.2510926">Columbia Professional Center<br />571 Hammock Road, Suite 100<br />
+              <p class="contact-page-subtitle">Baldwin Branch<br>(Temporary Location)</p>
+              <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/571+Hammock+Rd+NW+%23100,+Milledgeville,+GA+31061/@33.0992857,-83.2532813,17z/data=!3m1!4b1!4m5!3m4!1s0x88f6b87550ff2029:0x12464fe437b76372!8m2!3d33.0992857!4d-83.2510926">Columbia Professional Center<br />571 Hammock Road, Suite 114<br />
                   Milledgeville, GA 31061</a><br />
                 <strong>Phone:</strong> 478.745.0494<br />
                 <strong>Toll-Free:</strong> 800.633.2275<br />
@@ -96,7 +96,7 @@
 
           <tr>
             <td>
-              <p class="contact-page-subtitle">Lake Joy Branch<br>(Opening Sept. 12, 2023)</p>
+              <p class="contact-page-subtitle">Lake Joy Branch</p>
               <p class="contact-page-blurb"><a href="https://www.google.com/maps/place/1110+SR+96,+Kathleen,+GA+31047/@32.5485448,-83.6945618,17z/data=!3m1!4b1!4m6!3m5!1s0x88f3ddee21ecdbbd:0x800b97ad8a34b0a2!8m2!3d32.5485403!4d-83.6919869!16s%2Fg%2F11b8v4bc9k?entry=ttu">1110 Highway 96<br>Kathleen, GA 31047</a><br />
                 <strong>Phone:</strong> 478.745.0494<br />
                 <strong>Toll-Free:</strong> 800.633.2275<br />

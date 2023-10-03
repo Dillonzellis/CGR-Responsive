@@ -23,9 +23,11 @@
         <div id="slider" class="fullwidthbanner-container">
             <div class="fullwidthbanner">
                 <ul>
-                    <li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/WeAreMoving.jpg">
+
+					
+					<li data-transition="notransition" data-slotamount="10" data-masterspeed="300" data-thumb="https://www.cgrcu.org/images/slider/WeMoved.jpg">
                         <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                        <img src="/images/slider/WeAreMoving.jpg" data-transition="notransition" alt="Scam Alert">
+                        <img src="/images/slider/WeMoved.jpg" data-transition="notransition" alt="Scam Alert">
                         <!-- THE CAPTIONS IN THIS SLDIE -->
                         <div class="caption large_text sfb" data-x="100" data-y="380" data-speed="500" data-start="1000" data-easing="easeOutExpo" style=" display:grid; gap: 1rem; text-align:center">
 
