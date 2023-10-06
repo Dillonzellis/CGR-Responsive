@@ -21,7 +21,7 @@
 
   <?php
   $currentDate = new DateTime();
-  $endDate = new DateTime('2023-09-04 23:59:00');
+  $endDate = new DateTime('2023-10-09 23:59:00');
 
   if ($currentDate < $endDate) {
     include "includes/notification-bar.php";
